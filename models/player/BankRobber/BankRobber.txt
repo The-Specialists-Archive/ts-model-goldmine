@@ -1,0 +1,10 @@
+Bank Robber for Mercenary
+-------------------------
+
+Head model:       Wolfenstein
+Body model:       Half Life Gman
+Suit Skin:        Wolfenstein
+Shoes model/skin: SOF2
+Hands model/skin: Max Payne
+Ski-Mask Skin:    Collector
+Vest Hack:        Collector
