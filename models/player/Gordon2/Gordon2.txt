@@ -1,0 +1,11 @@
+Hi-Res Suit Gordon for Gordon
+-----------------------------
+
+Head model		: Wolfenstein
+Hair model		: Max Payne 2
+Body model		: Half Life Gman
+Suit Skin		: Wolfenstein
+Shoes model/skin	: SOF2
+Hands model/skin	: Max Payne
+ID-Card Skin		: Collector
+Face Alteration		: Collector
