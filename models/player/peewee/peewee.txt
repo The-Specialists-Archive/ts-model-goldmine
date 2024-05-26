@@ -1,0 +1,8 @@
+Credits that nobody will read:
+
+Skin:  MurdarMachene
+Model:  Lokit with bowtie by JonHeat
+
+The sounds go in the ts/sound/peewee folder (hurr)
+
+enjoy.
