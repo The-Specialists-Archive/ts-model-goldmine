@@ -1,0 +1,145 @@
+Katsuta's TS Anime Collection
+
+---
+ORIGIONAL
+ 
+Models:      Various (Including LunarWolfX, Enix, Robo_Killa, Various)
+Skins:       Various (Including LunarWolfX, Enix, Robo_Killa, Various)
+Animations:  Various (Including LunarWolfX, Enix, Robo_Killa, Various)
+
+---
+FIXES
+
+Model Fixing     :  Katsuta, Ogawa, Robo_Killa, Jehuty
+Reskins          :  Katsuta, Ogawa, Kei, Naota, Denarix
+Animation Fixing :  Katsuta
+
+---
+  God.. How anime has grown on TS. Well! Heres my entire collection of Anime related TS
+player/weapon models with sounds. You'll find quite the selection and I hope you are
+pleased with some of the fixes I've done to the models, but don't forget the real
+credit goes to the origional modelers/skinners/animators. I'm only the guy who brought
+it all together. ENJOY ANIME ON TS ON THE NEXT LEVEL!
+
+-`Katsuta (AKA PixelDash)
+
+---
+REMINDER!!
+
+
+All Player Model folders go directly into TS\Models\Player. 
+
+  WARNING!! DO NOT FORGET THE .MDL FILES NEED TO BE IN FOLDERS NAMED AFTER THEM IN THE .RAR!!
+
+
+All Weapon Model folders go directly into TS\Models, replacing your current weapon models.
+
+  WARNING!! THESE WILL OVERWRITE CURRENT WEAPON MODELS. THESE DO NOT REQUIRE FOLDERS OF THEIR OWN!!
+
+
+All Weapon Sound files go within their allready existant weapon directory in TS\Sound\Weapons, replacing
+your current weapon sounds. 
+
+  WARNING!! THESE WILL OVERWRITE CURRENT WEAPON SOUNDS. THESE DO NOT REQUIRE FOLDERS OF THEIR OWN!!
+
+
+---
+OPTIONAL ADDITIONS
+
+
+NRP Customization\NinjaAccess.mdl is an addition to the NRP plugin. This .mdl file goes with your
+TS\Models directory.
+
+NRP Weapons\Naruto is an addition to the NRP plugin. This folder goes within your TS\Models directory
+
+Misc Sounds\AGL is an additional sound set for various Trigun weapons. This folder goes within your 
+TS\Sound\Weapons directory.
+
+
+---
+Once again, thank you for downloading. And enjoy.~
+
+
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+
+AnimePatch 1.1 INFO!
+
+---
+
+Resolved Issues
+
+ Model Related Issues
+  +Fixed EinNRP's model clipping.
+  +Fixed EinNRP_S' model clipping.
+  +Fixed EinNRP_Dark's model clipping.
+  +Fixed EinNRP_Dark_S' model clipping.
+  +Fixed UnknownNin's model clipping.
+  +Fixed KatsutaNRP_17's model clipping.
+
+ Texture Related Issues
+  +Fixed UnknownNin's transparency issue.
+  +Fixed KatsutaNRP_17's transparency issue.
+
+---
+Remaining Issues
+ 
+ Model Related Issues
+  -Renji facial and arm distortion.
+
+---
+
+AnimePatch V1.2 INFO!
+
+---
+
+Model Addition
+ +Guy
+ +Hinata
+ +Hinata_Byakugan
+
+---
+
+Remaining Issues
+
+Model Related Issues
+ -Renji facial and arm distortion.
+
+---
+
+AnimePatch V1.3 INFO!
+
+---
+
+Resolved Issues
+ Texture Related Issues
+  +Renji facial and arm distortion fixed!
+
+---
+
+AnimePatch V1.4 INFO!
+
+---
+
+New Catagorization
+Model Addition
+ +Ichigo_IH (Inner Hollow)
+ +Rukia
+ +Zangetsu (+Alternative Zangetsu)
+
+Model Related Issues
+  +Fixed EinNRP's model clipping.
+  +Fixed EinNRP_S' model clipping.
+  +Fixed EinNRP_Dark's model clipping.
+  +Fixed EinNRP_Dark_S' model clipping.
+  +Fixed UnknownNin's model clipping.
+  +Fixed KatsutaNRP_17's model clipping.
+  +Fixed Ichigo's model clipping.
+  +Fixed Ichigo_Bandage's model clipping.
+
+
+IF ANYONE FINDS BUGS OR ANY OTHER WEIRD MODEL BEHAVIOUR, CONTACT ME AT
+KATSUTA.MIYAKAWA@HOTMAIL.COM
+
+Thanks! And Happy Gaming~ 
