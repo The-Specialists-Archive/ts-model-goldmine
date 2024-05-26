@@ -1,0 +1,32 @@
+ 
+BadFellas 
+
+player models full pack
+
+The autors of original models is it:
+
+Gordon Freeman - Romka(ambientimpact.hl-improvement.com), HD textures - Wonrz
+James Earl Cash - Rockstar North (www.rockstarnorth.com)
+Tommy Vercetti - Rockstar North (www.rockstarnorth.com), HD textures - vakooja
+Dude - Running With Scissors (www.gopostal.com), HD textures and other - Apocalypse Weekend team
+Tobias Rieper - IO Interactive (www.ioi.dk)
+Max Payne - Remedy Entertainment (www.remedygames.com)
+Terror, Urban - Alaris
+
+The author of carrying over in The Specialists - WST (W0RST,SeIer,ToD.) 
+
+Installation: To place contents of archive in a directory Steam\SteamApps\YOUR_ACCOUNT\half-life\
+
+Files: Player.mdl, Agent.mdl, Castor.mdl, Gordon.mdl, Hitman.mdl, Laurence.mdl, Merc.mdl, Seal.mdl - 8 pieces
+
+The used programs: MilkShape 3D, Jed's HMV, Photoshop
+
+Date of release: 27.08.08
+
+W0RST@bk.ru 
+
+
+
+
+
+

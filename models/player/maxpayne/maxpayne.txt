@@ -1,0 +1,23 @@
+Max Payne Fix
+#############
+
+Comments          : Fixed the legs, and hands.KharBevNor helped me with the arms as well
+
+**CRedits**
+
+MaxPayne Team: for the model
+
+Spectre for the origional convert
+
+KharBevNor for helping me with the vertex's
+
+ME: For fixing this crappy convert up ALOT
+
+NightWolf for helping with certian vertex's as well!
+
+Jonheat: Fixing the face!
+
+Enjoy!
+
+
+~Timmeh[GPC]
