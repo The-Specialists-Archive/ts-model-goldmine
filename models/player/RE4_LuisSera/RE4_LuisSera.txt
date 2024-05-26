@@ -1,0 +1,9 @@
+CREDITS:
+
+Original Model: Capcom's Resident Evil 4 PC Port
+Ripped by: Halo4Life
+Converted to TS by: -Rusty-
+Compiled by: -Rusty-
+
+I've also included an .SMD file of Luis in the T pose. So someone
+can fix it if they want.
