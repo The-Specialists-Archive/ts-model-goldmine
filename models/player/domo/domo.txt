@@ -1,0 +1,38 @@
+Domo-Kun - By Kit the Fox 6/5/2004
+
+Includes: 1 player model.
+
+Description:
+
+  Domo-Kun's angry smashfest continues into the TS realm. Marvel at all the inherent inconsistancies that this model
+  presents logistically.
+
+Credits :
+
+  Model		: Me
+  Mesh		: Me
+  Assign	: Me
+  Texture	: Me
+  Bones		: "JonHeat and FreakingNeo"
+  Back kick and jump kick.. I did those.
+
+Installation: 
+
+  Unzip to yer TS folder, wherever is is. Should work then, assuming that you have "use folder paths" checked.
+
+Thanks for tryin':
+
+  ChaosX
+  Solidus
+
+Look out for more models and idle banter soon.
+
+      /*
+   .-^  |
+ q~ n   `.. - - - - - .
+  ',~~\                `.
+      `.   }    {    /\  '.
+        \  |~- -~\   | \   '.
+        || |     >> /   '.   .
+ \\|/   ||||    //_/      '''  \|/
+                     \|//
