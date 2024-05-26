@@ -1,0 +1,30 @@
+--------------
+VAMP from MGS2
+--------------
+
+Model and custom anims :
+B!gB@dWoLf (aienz2k2@aol.com)
+
+Skin Edit :
+Panda, Stevo and B!gB@dWoLf
+
+Model edit :
+Esf_Solidus(chest)
+
+Credits to the ff :
+
+AHL team - Stylez model
+Magnetixxx - Nomak model
+TS team
+The Lama - knife model
+
+Other credits :
+
+The knife_launch anim was based on ryosuke's saito knife_launch, i took the liberty to edit it :)
+Wheel_l and _r anims are from the neoreloaded model by Lost_In_Spajs.
+
+------
+Notice
+------
+
+This model cannot be altered, edited, reproduced or sold withouth the author's/alterer's permission. Failiure to do this will be the result of Gremlins eating your shorts when you sleep(you don't want that do you?).
