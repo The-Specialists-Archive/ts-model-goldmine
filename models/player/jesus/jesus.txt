@@ -1,0 +1,22 @@
+--------------------------------------------
+ JESUS PLAYER MODEL for THE SPECiALiSTS MOD
+--------------------------------------------
+            by SPASTiC CHiLD 
+
+CREDiTS:
+
+Head model/skin: Return to Castle Wolfenstein
+Hair model/skin: Salma CS model by Gabor
+Body model/vest texture: Counter Strike GIGN
+Cloth texture: Tusken Raiden JK2 model by Major Clod
+Shoes model/skin: SOF2
+Hands model/skin: Max Payne
+
+FOR RETARDS:
+Extract all files to Half-Life\TS\models\player\jesus directory.
+
+luv,
+SPASTiC CHiLD
+
+obliviondude@hotmail.com
+www.specialskool.waistdeepinentrails.co.uk
