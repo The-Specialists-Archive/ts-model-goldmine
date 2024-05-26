@@ -1,0 +1,24 @@
+FU 9 - 8 - 03
+---------------------------------
+
+FU MODEL by : FU-CHEN aka TIGERSTYLE aka FU aka FULAW
+FU SKIN by : FULAW aka FU-CHEN aka TIGERSTYLE aka FU
+
+CUSTOM ANIMATIONS by : FU-CHEN aka TIGERSTYLE aka FU aka FULAW
+Sword MODEL : FU
+Sword re-SKIN by : FU
+Original Skin by : Official TS team skinner
+
+Contents:
+	fu.mdl
+	p_katana.mdl
+	
+Installation:
+	Extract FU.zip to your halflife TS folder
+
+	C:\sierra\halflife\ts\"extract here"
+
+Execution:
+	Bring down console type 'model fu' then hit enter. (Hit it hard)
+	
+Contact: waterfire7@hotmail.com
