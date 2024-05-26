@@ -1,0 +1,14 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; From the oringinal file (not by me) ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+READ ME
+This is my newest ts model. It features animated trench coat, mouth, a secondary katana(used for combat and seppuku), and also includes sounds for this model. 
+i have also used the face and legs from another yakuza model which was made by these following ppl
+- Logan4434
+- Remedy Games
+- Sano
+
+!!!THE SOUND FILES SHOULD BE PLACED IN SOUND/WEAPONS!!!!!
+
+Note this is an early version, so there may be future releases.
