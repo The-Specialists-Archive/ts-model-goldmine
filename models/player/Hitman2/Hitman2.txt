@@ -1,0 +1,31 @@
+--------------------------------------------
+ HiTMAN PLAYER MODEL for THE SPECiALiSTS MOD
+--------------------------------------------
+            by SPASTiC CHiLD 
+
+
+CREDiTS:
+
+Although I've edited it all to fuck, these are the base models and skins used.
+
+Head model and skin: Wolfenstein
+Body model: Half Life Gman
+Body suit texture: Wolfenstein
+Shoes model/skin: SOF2
+Hands model/skin: Max Payne
+
+
+FOR RETARDS:
+
+Put the files in your Half-Life\TS\models\player\hitman folder.
+
+
+
+luv,
+SPASTiC CHiLD
+
+obliviondude@hotmail.com
+www.specialskool.waistdeepinentrails.co.uk
+
+
+
