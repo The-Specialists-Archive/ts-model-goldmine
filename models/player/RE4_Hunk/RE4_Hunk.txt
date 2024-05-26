@@ -1,0 +1,8 @@
+CREDITS:
+
+Models: Capcom
+Rip: Andersen
+Convert: Der Graue Fuchs™
+Compile: Der Graue Fuchs™
+
+Special thanks to Halo4life for his help for the model rescaling.
