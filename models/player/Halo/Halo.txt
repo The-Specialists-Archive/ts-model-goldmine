@@ -1,0 +1,40 @@
+
+1/30/02
+================================================================
+Model Name              : Master Chief for TS
+
+installation directory  : ts/models/player/halo
+Author                      : Alex Wright
+
+Email Address          : strkrwlf@pacbell.net
+
+Convert by: Zero
+
+email: wingzero194@yahoo.com
+
+Model description     : Well, its the Master Chief from Halo. In Counter-Strike. Fun ensures :)
+
+Additional Credits to	 : Bungie, I think their games might have ruined my life for the better.
+
+Thanks to	 : everyone who helped playtest this thing, and put up with all my 'look at this render!' garbage :)
+================================================================
+* Play Information *
+
+New Sounds              : negative
+
+* Construction *
+Poly Count                : 1122
+Skin Count                : one 512x512, one 64x64 chrome map, and one 16x16
+Base                          : mesh and texture done totally from scratch, but the concept was ripped off from Halo :)
+Editor used                : Animation Master 8.5, 3dsmax 4, photoshop, HLMV, and the usual halflife compiling tools.
+Known Bugs              : nope?
+Build time  	  : a couple weeks off and on of work.
+
+
+* How to use this model *
+
+Place it into your ts/models/player/halo directory after unzipping. Be sure to back up the original sas.mdl if you ever want to see it again without much hassle. You could theoreticly rename/replace any of the player models, but thats up to you.
+
+* Copyright / Permissions *
+
+Halo is © 2002 Bungie Studios / Microsoft Corporation. This model itself has nothing to do with them, so feel free not to bother them with your questions about it. Bother me instead, because I like being bothered about such things.
