@@ -1,0 +1,11 @@
+=========
+Babe Wire
+=========
+
+
+Installation: Unzip all of the contents of the zip file to TS/Models/Player.
+
+
+
+
+Credits: All credits go to the Action Half-Life Team.
