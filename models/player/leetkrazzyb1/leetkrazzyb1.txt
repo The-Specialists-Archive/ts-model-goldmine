@@ -1,0 +1,21 @@
+================================================================
+Model Name              : leetkrazzyb1
+Author                  : Kr@zZy
+Skin Mapping            : Valve & Kr@zZy
+Skin Author             : Valve & Kr@zZy
+
+Model description       : The classic 1337 Kr3w from Counter-Strike 1.6, now with a trench coat!
+
+Animations hacked from these models: Rionb1 (backflip), Miyamoto (right flip) and Musanin (idle).
+
+Additional Credits to   : TWHL - https://twhl.info/ and Barnonebybar and Dementei for the hype.
+
+* How to use this model *
+
+This is intended to be used with Half Life and with the mod "The Specialists" version 3.0.
+
+The specialists: http://www.halflifeitalia.com/specialist/
+
+* Copyright / Permissions *
+
+Feel free to distribute.
